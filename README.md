@@ -9,7 +9,7 @@
 
 ### App Deployed to Heroku
 
-https://amhpizza.herokuapp.com/
+[Deployed Link](https://vast-beach-16114.herokuapp.com/)
 
 ### Concepts Covered
 
